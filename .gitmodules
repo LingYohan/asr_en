@@ -1,4 +1,0 @@
-[submodule "ctcdecode"]
-	ignore = untracked
-[submodule "speechrecognition/ctcdecode"]
-	ignore = untracked
